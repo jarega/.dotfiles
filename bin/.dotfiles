@@ -1,0 +1,5 @@
+linux:
+	bash./linux.sh
+clean:
+	chmod g+w cleanup.sh
+	bash./cleanup.sh
